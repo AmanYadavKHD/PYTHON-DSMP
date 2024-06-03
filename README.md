@@ -1,2 +1,2 @@
 # Machine-Learning
-I have followed a cource to learn machine learning.
+I have followed a course to learn machine learning.
